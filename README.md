@@ -1,4 +1,4 @@
-# 🎭 PythonPan de Muertos: Ofrenda Virtual Interactiva
+# 🎭 PythonPan de Muertos: Ofrenda Virtual
 
 <div align="center">
 
@@ -25,16 +25,6 @@
 │         [Controles GUI]             │
 └────────────────────────────────────┘
 ```
-
-# 🎭 PythonPan de Muertos: Ofrenda Virtual
-
-![Día de Muertos](https://img.shields.io/badge/Festividad-D%C3%ADa%20de%20Muertos-orange)
-![Python Version](https://img.shields.io/badge/Python-3.x-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-## 📖 Descripción
-
-PythonPan de Muertos es una aplicación interactiva que celebra la tradición mexicana del Día de Muertos a través de una ofrenda virtual. Esta aplicación combina elementos visuales animados, música y poesía para crear una experiencia inmersiva que honra esta importante festividad cultural.
 
 ## ✨ Características
 
