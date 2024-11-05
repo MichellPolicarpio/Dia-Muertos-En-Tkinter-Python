@@ -8,6 +8,8 @@
 ![Status](https://img.shields.io/badge/Status-Activo-success?style=for-the-badge)
 ![Framework](https://img.shields.io/badge/Framework-Tkinter-purple?style=for-the-badge)
 
+</div align="center">
+
 ## 🌟 Descripción
 
 **PythonPan de Muertos** es una experiencia interactiva que fusiona la programación moderna con la rica tradición del Día de Muertos mexicano. Esta aplicación única transforma tu pantalla en una vibrante ofrenda digital, donde cada elemento ha sido cuidadosamente diseñado para honrar esta celebración ancestral.
