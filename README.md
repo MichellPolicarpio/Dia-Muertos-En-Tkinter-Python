@@ -12,7 +12,7 @@
 
 ## 🌟 Descripción
 
-**PythonPan de Muertos** es una experiencia interactiva que fusiona la programación moderna con la rica tradición del Día de Muertos mexicano. Esta aplicación única transforma tu pantalla en una vibrante ofrenda digital, donde cada elemento ha sido cuidadosamente diseñado para honrar esta celebración ancestral.
+**PythonPan de Muertos** es una aplicación desarrollada en Python que crea una ofrenda virtual interactiva. La aplicación consta de dos ventanas principales: una ventana de créditos (VentanaCreditos) y la ventana principal animada (VentanaAnimada). El proyecto combina elementos visuales dinámicos, efectos de audio y una calaverita literaria interactiva.
 
 ### 🎨 Diseño Visual
 ```
