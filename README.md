@@ -4,7 +4,6 @@
 
 ![Día de Muertos](https://img.shields.io/badge/Festividad-D%C3%ADa%20de%20Muertos-orange?style=for-the-badge)
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Activo-success?style=for-the-badge)
 ![Framework](https://img.shields.io/badge/Framework-Tkinter-purple?style=for-the-badge)
 
