@@ -52,7 +52,7 @@
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/pythonpan-de-muertos.git
+git clone https://github.com/MichellPolicarpio/Dia-Muertos-En-Tkinter-Python
 ```
 
 2. Instala las dependencias:
@@ -92,7 +92,7 @@ La aplicación presenta una interfaz rica en elementos visuales:
 - Texto animado con la calaverita literaria
 - Fondo dinámico con cambios de color
 
-### Institucional
+## Institucional
 - **Universidad Veracruzana (UV)**
   - Facultad de Ingeniería Eléctrica y Electrónica (FIEE)
   - Curso: Sistemas de Interacción Humano-Computadora
